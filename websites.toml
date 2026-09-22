@@ -92,3 +92,11 @@ slug = "broadwell.me"
 about = "Michael's site"
 url = "https://broadwell.me"
 owner = "broad-well"
+
+[[websites]]
+name ="Arjun's Blog"
+slug = "arjunsblog"
+about = "Miscellaneous Musings"
+url = "https://arjuns.blog"
+atom = "https://arjuns.blog/feed.xml"
+owner = "arjdroid"
